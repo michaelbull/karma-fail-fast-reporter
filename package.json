@@ -25,9 +25,10 @@
   },
   "homepage": "https://github.com/MikeBull94/karma-jasmine-fail-fast-reporter#readme",
   "dependencies": {
-    "jasmine-fail-fast": "~2.0.0"
+    "jasmine-fail-fast": "2.0.0"
   },
   "peerDependencies": {
-    "karma": ">=1.4.0"
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.4.0"
   }
 }
