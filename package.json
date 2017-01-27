@@ -1,14 +1,14 @@
 {
-  "name": "karma-jasmine-fail-fast-reporter",
+  "name": "karma-fail-fast-reporter",
   "version": "1.0.0",
-  "description": "A Karma plugin. Report results with jasmine-fail-fast.",
+  "description": "A Karma plugin. Report failures as soon as they occur.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MikeBull94/karma-jasmine-fail-fast-reporter.git"
+    "url": "git+https://github.com/MikeBull94/karma-fail-fast-reporter.git"
   },
   "keywords": [
     "karma-plugin",
@@ -21,9 +21,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MikeBull94/karma-jasmine-fail-fast-reporter/issues"
+    "url": "https://github.com/MikeBull94/karma-fail-fast-reporter/issues"
   },
-  "homepage": "https://github.com/MikeBull94/karma-jasmine-fail-fast-reporter#readme",
+  "homepage": "https://github.com/MikeBull94/karma-fail-fast-reporter#readme",
   "peerDependencies": {
     "karma": ">=1.4.0"
   }
