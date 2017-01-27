@@ -3,12 +3,16 @@
 Report [Karma][karma] failures as soon as they occur, exiting and reporting the
 the first failure instead of waiting for all of the tests to run.
 
-Multiple test failures can often be the result of one piece of erroneous code,
-therefore it is not always necessary to run every and produce the results of
-every single test. Instead, we can fail immediately and begin to investigate
-what caused the failure.
+Multiple test failures can often be the result of a single piece of erroneous
+code, therefore it is not always necessary to run and produce the results of
+every single test.
 
->  The quicker you can find out if a change breaks something the better off you
+Failing fast is an important concept of the Agile software development
+methodology as it allows the learning process to begin as early as possible,
+providing the shortest feedback loop available for the developer to begin fixing
+a failing test.
+
+> The quicker you can find out if a change breaks something the better off you
 > are and the more confidence you will have in your software.
 >
 > &mdash; <cite>[Mark Chang][model-everything-fail-fast]</cite>
