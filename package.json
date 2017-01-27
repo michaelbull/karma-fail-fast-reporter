@@ -26,5 +26,8 @@
   "homepage": "https://github.com/MikeBull94/karma-fail-fast-reporter#readme",
   "peerDependencies": {
     "karma": ">=1.4.0"
+  },
+  "devDependencies": {
+    "release-it": "2.5.3"
   }
 }
