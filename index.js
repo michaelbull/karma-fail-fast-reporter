@@ -1,11 +1,11 @@
-var jasmineFailFast = require('jasmine-fail-fast');
-
-var JasmineFailFastReporter = function () {
-    this.onRunStart = function (browsers) {
-        jasmineFailFast.init();
-    };
+var FailFastReporter = function () {
+    this.onSpecComplete = function (browser, result) {
+        if (result.success === false) {
+            throw new Error(result.log);
+        }
+    }
 };
 
 module.exports = {
-    'reporter:jasmine-fail-fast': ['type', JasmineFailFastReporter]
+    'reporter:fail-fast': ['type', FailFastReporter]
 };
