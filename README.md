@@ -1,1 +1,1 @@
-# karma-jasmine-fail-fast-reporter
+# karma-jasmine-fail-fast
