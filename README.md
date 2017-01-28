@@ -17,6 +17,31 @@ a failing test.
 >
 > &mdash; <cite>[Mark Chang][model-everything-fail-fast]</cite>
 
+## Installation
+
+```
+npm install --save-dev karma-fail-fast-reporter
+```
+
+## Configuration
+
+Either pass the `fail-fast` reporter as a command line argument:
+
+```
+karma start --reporters fail-fast
+```
+
+Or add the reporter to your `karma.conf.js` file:
+
+```javascript
+// karma.conf.js
+module.exports = function (config) {
+  config.set({
+    reporters: ['fail-fast']
+  });
+};
+```
+
 ## Contributing
 
 Bug reports and pull requests are welcome on [GitHub][github].
