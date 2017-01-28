@@ -1,14 +1,14 @@
 # karma-fail-fast-reporter
 
-Report [Karma][karma] failures as soon as they occur, exiting and reporting the
-the first failure instead of waiting for all of the tests to run.
-
 [![license][license-badge]][license]
 [![npm version][npm-badge]][npm]
 [![npm downloads][downloads-badge]][downloads]
 [![dependencies status][dependencies-badge]][dependencies]
 [![devDependencies status][devDependencies-badge]][devDependencies]
 [![peerDependencies status][peerDependencies-badge]][peerDependencies]
+
+Report [Karma][karma] failures as soon as they occur, exiting and reporting the
+the first failure instead of waiting for all of the tests to run.
 
 Multiple test failures can often be the result of a single piece of erroneous
 code, therefore it is not always necessary to run and produce the results of
