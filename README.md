@@ -58,18 +58,18 @@ Bug reports and pull requests are welcome on [GitHub][github].
 This project is available under the terms of the ISC license. See the
 [`LICENSE`][license] file for the copyright information and licensing terms.
 
-[license-badge]: https://img.shields.io/github/license/MikeBull94/karma-fail-fast-reporter.svg?style=flat-square
-[license]: https://github.com/MikeBull94/karma-fail-fast-reporter/blob/master/LICENSE
+[license-badge]: https://img.shields.io/github/license/mich/karma-fail-fast-reporter.svg?style=flat-square
+[license]: https://github.com/michaelbull/karma-fail-fast-reporter/blob/master/LICENSE
 [npm-badge]: https://img.shields.io/npm/v/karma-fail-fast-reporter.svg?style=flat-square
 [npm]: https://www.npmjs.com/package/karma-fail-fast-reporter
 [downloads-badge]: https://img.shields.io/npm/dt/karma-fail-fast-reporter.svg?style=flat-square
 [downloads]: https://www.npmjs.com/package/karma-fail-fast-reporter
-[dependencies-badge]: https://david-dm.org/MikeBull94/karma-fail-fast-reporter.svg?style=flat-square
-[dependencies]: https://david-dm.org/MikeBull94/karma-fail-fast-reporter
-[devDependencies-badge]: https://david-dm.org/MikeBull94/karma-fail-fast-reporter/dev-status.svg?style=flat-square
-[devDependencies]: https://david-dm.org/MikeBull94/karma-fail-fast-reporter?type=dev
-[peerDependencies-badge]: https://david-dm.org/MikeBull94/karma-fail-fast-reporter/peer-status.svg?style=flat-square
-[peerDependencies]: https://david-dm.org/MikeBull94/karma-fail-fast-reporter?type=peer
+[dependencies-badge]: https://david-dm.org/michaelbull/karma-fail-fast-reporter.svg?style=flat-square
+[dependencies]: https://david-dm.org/michaelbull/karma-fail-fast-reporter
+[devDependencies-badge]: https://david-dm.org/michaelbull/karma-fail-fast-reporter/dev-status.svg?style=flat-square
+[devDependencies]: https://david-dm.org/michaelbull/karma-fail-fast-reporter?type=dev
+[peerDependencies-badge]: https://david-dm.org/michaelbull/karma-fail-fast-reporter/peer-status.svg?style=flat-square
+[peerDependencies]: https://david-dm.org/michaelbull/karma-fail-fast-reporter?type=peer
 [karma]: https://karma-runner.github.io
 [model-everything-fail-fast]: https://www.thoughtworks.com/insights/blog/model-everything-fail-fast
-[github]: https://github.com/MikeBull94/karma-fail-fast-reporter
+[github]: https://github.com/michaelbull/karma-fail-fast-reporter
