@@ -58,7 +58,7 @@ Bug reports and pull requests are welcome on [GitHub][github].
 This project is available under the terms of the ISC license. See the
 [`LICENSE`][license] file for the copyright information and licensing terms.
 
-[license-badge]: https://img.shields.io/github/license/mich/karma-fail-fast-reporter.svg?style=flat-square
+[license-badge]: https://img.shields.io/github/license/michaelbull/karma-fail-fast-reporter.svg?style=flat-square
 [license]: https://github.com/michaelbull/karma-fail-fast-reporter/blob/master/LICENSE
 [npm-badge]: https://img.shields.io/npm/v/karma-fail-fast-reporter.svg?style=flat-square
 [npm]: https://www.npmjs.com/package/karma-fail-fast-reporter
